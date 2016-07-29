@@ -1,0 +1,5 @@
+server:
+  aws:
+    memcached:
+      endpoint: "localhost"
+      port: 11211
